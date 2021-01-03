@@ -1,0 +1,6 @@
+ArrayList ve LinkedList Arasında ki farklar?
+
+-ArrayList'te listedeki veri erişim daha hızlıdır-----LinkedList'te ise veri erişim daha yavaştır.
+-ArrayList'te listedeki verileede değişiklik yapmak daha yavaştır-----LinkedList'te ise daha hızlıdır.(Çift yönlü çalıştığı için)
+-ArrayList daha çok okuma yoğunluklu işlemerde-----LinkedList ise daha çok veri ekleme/çıkarma işlemlerini yoğun olarak yaptığımız işlemlerde kullanılır.
+-
